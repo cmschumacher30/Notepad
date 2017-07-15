@@ -1,0 +1,16 @@
+C:\dev\AngularJS\Notepad\Client\Client\App.js
+C:\dev\AngularJS\Notepad\Client\Client\App.js.map
+C:\dev\AngularJS\Notepad\Client\Client\Controller.js
+C:\dev\AngularJS\Notepad\Client\Client\Controller.js.map
+C:\dev\AngularJS\Notepad\Client\Client\Filesystem\Controller.js
+C:\dev\AngularJS\Notepad\Client\Client\Filesystem\Controller.js.map
+C:\dev\AngularJS\Notepad\Client\Client\Filesystem\Directive.js
+C:\dev\AngularJS\Notepad\Client\Client\Filesystem\Directive.js.map
+C:\dev\AngularJS\Notepad\Client\Client\RouteConfig.js
+C:\dev\AngularJS\Notepad\Client\Client\RouteConfig.js.map
+C:\dev\AngularJS\Notepad\Client\Client\Service.js
+C:\dev\AngularJS\Notepad\Client\Client\Service.js.map
+C:\dev\AngularJS\Notepad\Client\Client\Textbuffer\Controller.js
+C:\dev\AngularJS\Notepad\Client\Client\Textbuffer\Controller.js.map
+C:\dev\AngularJS\Notepad\Client\Client\Textbuffer\Directive.js
+C:\dev\AngularJS\Notepad\Client\Client\Textbuffer\Directive.js.map

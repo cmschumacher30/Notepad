@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html ng-app="notepadApp">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-route.min.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />   
+    <script src="Scripts/jquery-3.1.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script> 
+    <link href="Filesystem/File.css" rel="stylesheet" />    
+    <script src="App.js"></script>    
+    <script src="Service.js"></script>
+    <script src="Controller.js"></script>    
+    <script src="Textbuffer/Controller.js"></script>
+    <script src="Textbuffer/Directive.js"></script>
+    <script src="Filesystem/Directive.js"></script>
+    <script src="Filesystem/Controller.js"></script>   
+    <script src="RouteConfig.js"></script>
+    
+</head>
+<body ng-controller="MainCtrl as ctrl">
+    <div class="panel-heading" style="border:solid">
+        <span class="btn-lg glyphicon glyphicon-plus-sign" style="border:solid" ng-click="ctrl.newFile()"></span>
+        <span class="btn-lg glyphicon glyphicon-file" style="border:solid" ng-click="ctrl.modeChange()"></span>
+        <span class="btn-lg glyphicon glyphicon-floppy-save" style="border:solid" ng-click="ctrl.saveFile()"></span>
+        <input type="text" class="input-sm" ng-model="ctrl.fileName" ng-change="ctrl.nameChange()"/>
+    </div>
+    <div ng-view></div> 
+</body>
+</html>
