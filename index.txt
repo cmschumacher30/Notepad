@@ -1,0 +1,3 @@
+client - the original client, written in Typescript and Angular 1.x
+WA_Server - the original server, written in ASP .net Web Api.
+MSSQL_Server - WA_Server, but with the data stored in a SQLServer Compact database instead of the filesystem.
