@@ -1,0 +1,8 @@
+{
+    "name": "NotepadServer",
+  "version": "0.0.1",
+  "description": "Notepad Server component",
+  "dependencies": {
+    "": ""
+  }
+}
