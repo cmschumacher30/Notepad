@@ -2,3 +2,5 @@ client - the original client, written in Typescript and Angular 1.x
 WA_Server - the original server, written in ASP .net Web Api.
 MSSQL_Server - WA_Server, but with the data stored in a SQLServer Compact database instead of the filesystem.
 Node_Server - the server, rewritten in Node without any middleware.
+Express_Server - the server, rewritten in Node using Express.
+EAN_Client - the client, now hosted by Node using Express.
