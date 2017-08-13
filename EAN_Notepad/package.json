@@ -1,0 +1,21 @@
+{
+  "name": "ean_notepad",
+  "version": "1.0.0",
+  "description": "Notepad single-page application using the EAN stack.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/angular": "^1.6.28",
+    "angular": "^1.6.5",
+    "angular-route": "^1.6.5",
+    "body-parser": "^1.17.2",
+    "bootstrap": "^3.3.7",
+    "definitely-typed-angular": "^1.0.1",
+    "express": "^4.15.4",
+    "jquery": "^3.2.1"
+  }
+}

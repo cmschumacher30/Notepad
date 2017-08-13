@@ -4,3 +4,4 @@ MSSQL_Server - WA_Server, but with the data stored in a SQLServer Compact databa
 Node_Server - the server, rewritten in Node without any middleware.
 Express_Server - the server, rewritten in Node using Express.
 EAN_Client - the client, now hosted by Node using Express.
+EAN_Notepad - Single-page application version, combined server and client code.
