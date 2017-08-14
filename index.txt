@@ -5,3 +5,4 @@ Node_Server - the server, rewritten in Node without any middleware.
 Express_Server - the server, rewritten in Node using Express.
 EAN_Client - the client, now hosted by Node using Express.
 EAN_Notepad - Single-page application version, combined server and client code.
+MEAN_Notepad - Single-page application which uses MongoDB to store the documents.

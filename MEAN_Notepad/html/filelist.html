@@ -1,0 +1,12 @@
+﻿
+<div class="list-group" style="border:inset; height:90%" >
+    <div class="row" style="position:relative">        
+        <ul class="col-lg-2">
+            <li ng-repeat="x in fileCtrl.docs" class="list-group-item" style="border-bottom:thin">
+                <button class="btn-link" ng-click="fileCtrl.docClick(x.name,x.link)">{{x.name}}</button>
+                <button verify-button class="btn-default" ng-click="fileCtrl.deleteClick(x.name,x.link)"><span class='glyphicon glyphicon-trash'></span> </button>
+            </li>
+        </ul>
+        <button style="position:absolute; bottom:0" ng-click="fileCtrl.cancelClick()">Cancel</button>
+    </div>
+</div>
